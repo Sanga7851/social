@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.social">
+    package="com.sanga.social">
    <application
         android:label="social"
         android:icon="@mipmap/ic_launcher">
